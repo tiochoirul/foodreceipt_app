@@ -1,4 +1,4 @@
-# foodreceipt_app
+# Food Receipe Apps
 A new Flutter project.
 
 ## Getting Started
