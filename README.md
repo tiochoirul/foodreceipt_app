@@ -1,6 +1,3 @@
-Tentu, berikut adalah templat README dalam format Markdown:
-
-
 # FoodReceipt App
 
 FoodReceipt App is a simple web application that allows users to explore, create, and share food recipes.
