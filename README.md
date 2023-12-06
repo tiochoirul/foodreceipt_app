@@ -87,6 +87,3 @@ Contributions are welcome! Please follow these guidelines:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Anda dapat menyalin teks di atas dan langsung mem-paste ke file `README.md` di repositori GitHub Anda. Jangan lupa untuk menyesuaikan informasi proyek dan instruksi instalasi sesuai kebutuhan Anda.
