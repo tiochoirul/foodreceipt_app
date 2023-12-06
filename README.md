@@ -1,6 +1,6 @@
 # FoodReceipt App
 
-FoodReceipt App is a simple web application that allows users to explore, create, and share food recipes.
+FoodReceipt App is a cross-platform application that allows users to explore, create and share food recipes on both web and mobile platforms. This application was created to fulfill the final project on the Multi-Platform bootcamp at Dicoding. This is created with local data and displayed in list/grid form and has details for each recipe.
 
 ## Table of Contents
 
